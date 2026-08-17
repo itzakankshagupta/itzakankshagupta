@@ -49,20 +49,34 @@ const akanksha = {
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 
-🚀 Projects
-ProjectDescriptionStack
-🏦 VirtualBankingSystemBanking management with full GUI & auth<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-⚡ Aryavarta EV ConnectEV charging platform with reservations<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-🤖 Sree AIAI-powered application exploring ML<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/AI_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+### 🔗 🚀 Projects
 
-📊 GitHub Stats:
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🏦 **[VirtualBankingSystem](https://github.com/itzakankshagupta)** | Banking management with full GUI & auth | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
+| ⚡ **[Aryavarta EV Connect](https://github.com/itzakankshagupta)** | EV charging platform with reservations | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> |
+| 🤖 **[Sree AI](https://github.com/itzakankshagupta)** | AI-powered application exploring ML | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/AI_API-4285F4?style=flat-square&logo=google&logoColor=white"/> |
+
+---
+
+### 🔗 🤝 Let's Connect
+
+<div align="center"> 
+  <a href="https://github.com/itzakankshagupta"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+  <a href="https://linkedin.com/in/akanksha-gupta-602323373"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="mailto:itz.akankshagupta@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
+  </a> 
+</div>
+
+<br>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itzakankshagupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzakankshagupta&theme=tokyonight&hide_border=true" width="48%" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzakankshagupta&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <p>✨ <b>Building. Learning. Improving.</b> ✨</p>
 </div>
 <div align="center">
 <p>✨ <b>Building. Learning. Improving.</b> ✨</p>
