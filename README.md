@@ -78,6 +78,3 @@ const akanksha = {
 <div align="center">
   <p>✨ <b>Building. Learning. Improving.</b> ✨</p>
 </div>
-<div align="center">
-<p>✨ <b>Building. Learning. Improving.</b> ✨</p>
-</div>
