@@ -27,6 +27,7 @@ const akanksha = {
     ],
     contact      : "itz.akankshagupta@gmail.com"
 };
+```
 
 🛠️ Tech Stack
 <div align="center">
